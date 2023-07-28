@@ -1,3 +1,11 @@
+Site em desenvolvimento/customização - inicializado com um template Material UI  ****** testando usabilidade e facilidade na customização geral **********
+
+
+-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x--------------------------------------------------------------------------------x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x
+
+
+
+
 # [NextJS Material Kit](https://nextjs-material-kit.appseed-srv1.com/)
 
 > `Open-Source` **NextJS Starter** - [LIVE DEMO](https://nextjs-material-kit.appseed-srv1.com/). Forked from the [original version](https://bit.ly/37l2piJ) crafted by `Creative-Tim`, for accelerated development.
