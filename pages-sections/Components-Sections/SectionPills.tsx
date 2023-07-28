@@ -27,7 +27,7 @@ export default function SectionPills() {
           </div>
           <div className={classes.title}>
             <h3>
-              <small>With Icons</small>
+              <small>Com Ícones</small>
             </h3>
           </div>
           <GridContainer>

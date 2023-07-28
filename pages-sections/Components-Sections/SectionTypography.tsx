@@ -73,7 +73,7 @@ export default function SectionTypography() {
             <div className={classes.typo}>
               <div className={classes.note}>Paragraph</div>
               <p>
-                I will be the leader of a company that ends up being worth
+                Eu serei o líder da empresa...... that ends up being worth
                 billions of dollars, because I got the answers. I understand
                 culture. I am the nucleus. I think that’s a responsibility that
                 I have, to push possibilities, to show people, this is the level

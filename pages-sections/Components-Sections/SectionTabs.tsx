@@ -21,7 +21,7 @@ export default function SectionTabs() {
     <div className={classes.section}>
       <div className={classes.container}>
         <div id="nav-tabs">
-          <h3>Navigation Tabs</h3>
+          <h3>Guias de Navegação</h3>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
               <h3>

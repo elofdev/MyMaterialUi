@@ -44,7 +44,7 @@ export default function SectionNavbars() {
                       onClick={(e) => e.preventDefault()}
                       color="transparent"
                     >
-                      Link
+                      Primeiro
                     </Button>
                   </ListItem>
                   <ListItem className={classes.listItem}>
@@ -54,7 +54,7 @@ export default function SectionNavbars() {
                       onClick={(e) => e.preventDefault()}
                       color="transparent"
                     >
-                      Link
+                      Segundo
                     </Button>
                   </ListItem>
                   <ListItem className={classes.listItem}>

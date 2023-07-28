@@ -77,7 +77,7 @@ export default function SectionBasics() {
         <div id="buttons">
           <div className={classes.title}>
             <h3>
-              Buttons
+              Botões
               <br />
               <small>Pick your style</small>
             </h3>

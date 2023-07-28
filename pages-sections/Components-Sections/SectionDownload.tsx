@@ -33,7 +33,7 @@ export default function SectionDownload() {
               href="https://www.creative-tim.com/product/nextjs-material-kit?AFFILIATE=128200"
               target="_blank"
             >
-              Free NextJS Download
+              NextJs Grátis
             </Button>
             <Button
               color="primary"

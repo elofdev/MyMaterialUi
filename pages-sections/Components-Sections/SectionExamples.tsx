@@ -35,7 +35,7 @@ export default function SectionExamples() {
                   }
                 />
                 <Button color="primary" size="lg" simple>
-                  View landing page
+                  Veja a página de destino
                 </Button>
               </a>
             </Link>
